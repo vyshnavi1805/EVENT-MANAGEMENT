@@ -22,7 +22,7 @@ function isLikelyValidApiKey(value) {
 
 // Fallback for local demo runs when .env is empty.
 const fallbackConfig = {
-  apiKey: "AIzaSyBZAFfjeJ3em2C-HD05qN5dh7XflQa6P04",
+  apiKey: "GIVE UR RESPECTED API KEY",
   authDomain: "evento-app-62039.firebaseapp.com",
   projectId: "evento-app-62039",
   storageBucket: "evento-app-62039.firebasestorage.app",
